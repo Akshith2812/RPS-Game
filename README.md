@@ -1,3 +1,4 @@
 # RPS-Game
 A Simple Rock Paper Scissor Game
-![image](https://github.com/user-attachments/assets/93e40cf0-6695-40da-a0a7-fd75a2951c05)
+![image](https://github.com/user-attachments/assets/01dca691-414c-4054-89d5-ef1a81d09dc7)
+
